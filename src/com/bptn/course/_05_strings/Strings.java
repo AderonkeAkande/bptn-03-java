@@ -93,6 +93,7 @@ public class Strings {
 		String str13 = "AC";
 
 		String str14 = "Test";
+		String str15 = "Test1";
 		
 		System.out.println(str12.compareTo(str13));
 		
