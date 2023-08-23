@@ -91,6 +91,8 @@ public class Strings {
 		
 		String str12 = "AZ";
 		String str13 = "AC";
+
+		String str14 = "Test";
 		
 		System.out.println(str12.compareTo(str13));
 		
