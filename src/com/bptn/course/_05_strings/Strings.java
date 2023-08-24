@@ -94,6 +94,7 @@ public class Strings {
 
 		String str14 = "Test";
 		String str15 = "Test1";
+		String str16 = "Test2";
 		
 		System.out.println(str12.compareTo(str13));
 		
